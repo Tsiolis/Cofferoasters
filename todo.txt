@@ -1,0 +1,7 @@
+Need to seperate the span ID's for thre create plan div and the modal as they dont work
+
+Find a way of checking what frequency has been selected and calculating shipping based on frequency, then update modal span with amount
+
+Check if capsule has been selected and disable grind option IF it has
+
+Fix modal price span styling
